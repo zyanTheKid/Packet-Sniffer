@@ -7,8 +7,8 @@ A Network Packet Sniffer developed in Python 3. Packets are disassembled
 as they arrive at a given network interface controller and their information
 is displayed on the screen.
 
-This application depends exclusively on the [NETProtocols] 
-library (also developed and maintained by [EONRaider] 
+This application depends exclusively on the NETProtocols 
+library (also developed and maintained by EONRaider 
 from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 
 ## Demo
