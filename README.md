@@ -8,7 +8,7 @@ as they arrive at a given network interface controller and their information
 is displayed on the screen.
 
 This application depends exclusively on the NETProtocols 
-library (also developed and maintained by EONRaider 
+library developed and maintained by EONRaider 
 from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 
 ## Demo
@@ -19,7 +19,7 @@ from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 Simply clone this repository with `git clone`, install the dependencies and execute the 
 `sniffer.py` file.
 ```
-user@host:~$ git clone https://github.com/EONRaider/Packet-Sniffer.git
+user@host:~$ git clone https://github.com/zyanTheKid/Packet-Sniffer
 user@host:~$ cd Packet-Sniffer
 user@host:~/packet-sniffer$ pip install -r requirements.txt <--or--> poetry install
 user@host:~/packet-sniffer$ sudo python3 packet_sniffer/sniffer.py
