@@ -2,19 +2,13 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=for-the-badge&logo=linux)
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/Packet-Sniffer?label=CodeFactor&logo=codefactor&style=for-the-badge)](https://www.codefactor.io/repository/github/eonraider/packet-sniffer)
-[![License](https://img.shields.io/github/license/EONRaider/Packet-Sniffer?style=for-the-badge)](https://github.com/EONRaider/Packet-Sniffer/blob/master/LICENSE)
-
-[![Reddit](https://img.shields.io/badge/Reddit-EONRaider-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/eonraider)
-[![Discord](https://img.shields.io/badge/Discord-EONRaider-7289DA?style=flat-square&logo=discord)](https://discord.gg/KVjWBptv)
-[![Twitter](https://img.shields.io/badge/Twitter-eon__raider-38A1F3?style=flat-square&logo=twitter)](https://twitter.com/intent/follow?screen_name=eon_raider)
 
 A Network Packet Sniffer developed in Python 3. Packets are disassembled
 as they arrive at a given network interface controller and their information
 is displayed on the screen.
 
-This application depends exclusively on the [NETProtocols](https://github.com/EONRaider/NETProtocols) 
-library (also developed and maintained by [EONRaider](https://github.com/EONRaider)) 
+This application depends exclusively on the [NETProtocols] 
+library (also developed and maintained by [EONRaider] 
 from version 2.0.0 and above and can be run by any Python 3.8+ interpreter.
 
 ## Demo
